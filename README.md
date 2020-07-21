@@ -4,5 +4,6 @@ cd Project directory
 -npm install   
 -npm start       
 
-Video Demonstration:     
-Part 1: https://drive.google.com/file/d/1nNoRBa-3TlN3-lgSMwz55F_YzbwmCdw5/view
+Video Demonstration (done in parts because of screen recorder time limit):          
+Part 1: https://drive.google.com/file/d/1nNoRBa-3TlN3-lgSMwz55F_YzbwmCdw5/view    
+Part 2: https://drive.google.com/file/d/140kEeWEiAa495IY_FOfsJhMDJzmnb92n/view
